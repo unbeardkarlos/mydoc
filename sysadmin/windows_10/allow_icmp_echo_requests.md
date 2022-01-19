@@ -13,3 +13,5 @@ netsh advfirewall firewall add rule name="ICMP Allow incoming V6 echo request" p
 ```
 
 now you can ping from remote host. 
+
+tested and working on windows 10, 7 ...
